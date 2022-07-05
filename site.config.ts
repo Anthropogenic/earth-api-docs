@@ -10,7 +10,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'Earth API Docs',
   domain: 'docs.hge.earth',
-  author: 'William Felker',
+  author: 'Anthropogenic',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
